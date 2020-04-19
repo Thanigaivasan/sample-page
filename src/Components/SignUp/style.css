@@ -85,9 +85,9 @@
     padding-left: 30%;
 }
 
-@media only screen and (max-width: 700px){
+@media only screen and (max-width: 1000px){
     .signup-title {
-        width: 100%;
+        width: 90%;
         color: mediumslateblue;
         font-size: 26px;
         font-weight: bolder;
@@ -114,8 +114,8 @@
         width: 100%;
     }
     .su-form-last{
-        width: 100%;
-        padding-left: 6%;
+        width: 80%;
+        padding-left: 8%;
     }
     .su-input-single{
         border-width: 2px;
